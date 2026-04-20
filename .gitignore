@@ -1,0 +1,12 @@
+﻿# Build artifacts
+*.obj
+*.o
+*.pcm
+*.exe
+*.ilk
+*.pdb
+*.lib
+*.exp
+
+# Temp
+*.log
